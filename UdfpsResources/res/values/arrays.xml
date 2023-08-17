@@ -21,6 +21,10 @@
 
    <string-array name="udfps_icons">
         <item>udfps_icon_default</item>
+        <item>skull1</item>
+        <item>skull2</item>
+        <item>skull3</item>
+        <item>skull4</item>
         <item>udfps_icon_miui</item>
         <item>udfps_icon_op</item>
         <item>udfps_icon_op_2077</item>
